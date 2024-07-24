@@ -2,3 +2,5 @@
 A song about raainbows 
 
 In the key of C Major
+
+Mood: happy
